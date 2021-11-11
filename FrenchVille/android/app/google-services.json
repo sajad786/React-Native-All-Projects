@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "321068251787",
+    "project_id": "frenchville-39e6d",
+    "storage_bucket": "frenchville-39e6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321068251787:android:43e480adce82356093b28e",
+        "android_client_info": {
+          "package_name": "com.frenchville"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321068251787-6tgh2iqb2liev06pmf2f2m870l1tuc5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKXQS7U1kn9Keo8W1wcADhwJJmg1nKFS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321068251787-6tgh2iqb2liev06pmf2f2m870l1tuc5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
